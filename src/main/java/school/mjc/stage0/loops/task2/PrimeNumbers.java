@@ -25,5 +25,4 @@ public class PrimeNumbers {
 
         return true;
     }
-    }
 }
