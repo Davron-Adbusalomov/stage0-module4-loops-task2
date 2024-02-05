@@ -8,4 +8,4 @@ public class Multiplication {
             System.out.println(result);
             i++;
     }
-}
+}}
