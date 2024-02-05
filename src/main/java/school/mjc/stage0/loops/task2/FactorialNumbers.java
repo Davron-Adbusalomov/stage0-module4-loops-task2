@@ -26,6 +26,4 @@ public class FactorialNumbers {
 
         return result;
     }
-
-    }
 }
